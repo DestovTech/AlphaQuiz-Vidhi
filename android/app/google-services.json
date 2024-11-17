@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250457167716",
+    "project_id": "alpha-quiz-acdaa",
+    "storage_bucket": "alpha-quiz-acdaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250457167716:android:cff61d6ce36755bbeb0c71",
+        "android_client_info": {
+          "package_name": "com.shritech.flutterquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250457167716-0u41f0d0ifu5osdjdd3e5g3i6rv26n57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shritech.flutterquiz",
+            "certificate_hash": "565adfefe05dd2ba4141c0773150b19bdadd462e"
+          }
+        },
+        {
+          "client_id": "250457167716-74hp5ntfqa0jcr77irqh3l4a8cg56tl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlRqvNzBXfAlZr1RuWNtFcxoSM0923-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250457167716-74hp5ntfqa0jcr77irqh3l4a8cg56tl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
